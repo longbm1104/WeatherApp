@@ -1,0 +1,25 @@
+<!--TODO-->
+<!--As good coding practice add all strings you use though out the project in this file -->
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="city">MUMBAI, IN</string>
+    <string name="date_time">20 April 2012, 20:08 PM</string>
+    <string name="sky_type">Clear Sky</string>
+    <string name="temperature">29°C</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="time_sunrise">06:40 AM</string>
+    <string name="sunset">Sunset</string>
+    <string name="time_sunset">06:40 AM</string>
+    <string name="wind">Wind</string>
+    <string name="time_wind">06:40 AM</string>
+    <string name="pressure">Pressure</string>
+    <string name="time_pressure">06:40 AM</string>
+    <string name="humidity">Humidity</string>
+    <string name="time_humidity">06:40 AM</string>
+    <string name="min_temp">Min Temp: 05:05 AM</string>
+    <string name="max_temp">Max Temp: 05:05 PM</string>
+    <string name="sunrise_image">sunrise image</string>
+    <string name="error_message">Something went wrong</string>
+    <string name="search">Search</string>
+    <string name="edit_text_hint">Enter City Name</string>
+</resources>
