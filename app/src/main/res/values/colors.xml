@@ -1,5 +1,3 @@
-<!--TODO-->
-<!--As good coding practice add all color themes you use thoughout the project in this file -->
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>

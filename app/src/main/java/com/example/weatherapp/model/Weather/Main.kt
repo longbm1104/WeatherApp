@@ -5,3 +5,9 @@ import com.google.gson.annotations.SerializedName
 //TODO
 // Create data class Main (Refer to API Response)
 // Hint: Refer to Wind Data Class
+
+data class Main (
+
+    @SerializedName("main")
+    val main: String = ""
+)
