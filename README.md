@@ -17,3 +17,11 @@ The displayed information includes:
 * Humidity information
 
 Here is the link of Figma Design: https://www.figma.com/design/8ghshlNE3PXw8uZppmdhYg/HW3?node-id=0%3A1&t=FPUBULFwS5RuFASw-1
+
+This homework take me about 20 hours
+
+These are resources that I used: 
+
+https://openweathermap.org/api/one-call-3#how
+
+https://www.youtube.com/watch?v=hurcmk_4QCM
