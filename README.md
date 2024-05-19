@@ -18,7 +18,8 @@ The displayed information includes:
 
 Here is the link of Figma Design: https://www.figma.com/design/8ghshlNE3PXw8uZppmdhYg/HW3?node-id=0%3A1&t=FPUBULFwS5RuFASw-1
 
-This homework take me about 20 hours
+This homework take me about 20 hours. The most challenging part of this homework with the working the API,
+and parsing the response.
 
 These are resources that I used: 
 
