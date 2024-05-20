@@ -18,6 +18,8 @@ The displayed information includes:
 
 Here is the link of Figma Design: https://www.figma.com/design/8ghshlNE3PXw8uZppmdhYg/HW3?node-id=0%3A1&t=FPUBULFwS5RuFASw-1
 
+Here is the github link: https://github.com/longbm1104/WeatherApp
+
 This homework take me about 20 hours. The most challenging part of this homework with the working the API,
 and parsing the response.
 

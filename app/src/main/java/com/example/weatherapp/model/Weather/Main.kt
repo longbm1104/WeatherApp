@@ -7,9 +7,6 @@ import com.google.gson.annotations.SerializedName
 // Hint: Refer to Wind Data Class
 
 data class Main (
-
-//    @SerializedName("main")
-//    val main: String = ""
     @SerializedName("temp")
     var temp: Double,
 

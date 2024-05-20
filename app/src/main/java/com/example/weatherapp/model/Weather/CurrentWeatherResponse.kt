@@ -8,8 +8,6 @@ import com.google.gson.annotations.SerializedName
 // Hint: Refer to Wind Data Class
 data class CurrentWeatherResponse (
 
-//    @SerializedName("current")
-//    var current: WeatherItem
     @SerializedName("coord")
     var coord: Coord,
 
