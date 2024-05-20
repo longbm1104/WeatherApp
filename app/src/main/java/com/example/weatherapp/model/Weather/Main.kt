@@ -8,6 +8,20 @@ import com.google.gson.annotations.SerializedName
 
 data class Main (
 
-    @SerializedName("main")
-    val main: String = ""
+//    @SerializedName("main")
+//    val main: String = ""
+    @SerializedName("temp")
+    var temp: Double,
+
+    @SerializedName("temp_min")
+    var tempMin: Double,
+
+    @SerializedName("temp_max")
+    var tempMax: Double,
+
+    @SerializedName("pressure")
+    var pressure: String,
+
+    @SerializedName("humidity")
+    var humidity: String,
 )
